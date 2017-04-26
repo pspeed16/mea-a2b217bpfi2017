@@ -1,0 +1,52 @@
+<resources>
+    //Strings for activity_main
+    <string name="app_name">Guitar Simulator</string>
+    <string name="chord_button">Chords</string>
+    <string name="bpm_text">BPM</string>
+    <string name="bpm_picker_down">-</string>
+    <string name="bpm_picker_up">+</string>
+    <string name="string_1">e</string>
+    <string name="string_2">B</string>
+    <string name="string_3">G</string>
+    <string name="string_4">D</string>
+    <string name="string_5">A</string>
+    <string name="string_6">E</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    //Strings for activity_chords
+    <string name="title_activity_chords">Chord Progression Selection</string>
+    <string name="text_chords_activity">Press the chords to play them!</string>
+    <string name="chord_start">Start!</string>
+    <string name="a">A</string>
+    <string name="a2">A2</string>
+    <string name="a7">A7</string>
+    <string name="am">Am</string>
+    <string name="am7">Am7</string>
+    <string name="b">B</string>
+    <string name="bm">Bm</string>
+    <string name="b7">B7</string>
+    <string name="bm7">Bm7</string>
+    <string name="c">C</string>
+    <string name="c7">C7</string>
+    <string name="cmaj7">Cmaj7</string>
+    <string name="cm">Cm</string>
+    <string name="cadd2">Cadd2</string>
+    <string name="d">D</string>
+    <string name="dm">Dm</string>
+    <string name="d7">D7</string>
+    <string name="dm7">Dm7</string>
+    <string name="e">E</string>
+    <string name="e7">E7</string>
+    <string name="em">Em</string>
+    <string name="em7">Em7</string>
+    <string name="f">F</string>
+    <string name="fm">Fm</string>
+    <string name="f7">F7</string>
+    <string name="fm7">Fm7</string>
+    <string name="g">G</string>
+    <string name="gm">Gm</string>
+    <string name="g7">G7</string>
+    <string name="gm7">Gm7</string>
+</resources>

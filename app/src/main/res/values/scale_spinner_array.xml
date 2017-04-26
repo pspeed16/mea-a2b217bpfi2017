@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scale_spinner_array">
+        <item>No Scale</item>
+        <item>G# Lydian</item>
+        <item>G# Ionian</item>
+        <item>G# Mixolydian</item>
+        <item>G# Dorian</item>
+        <item>G# Aeolian</item>
+        <item>G# Phrygian</item>
+        <item>G# Locrian</item>
+    </string-array>
+</resources>
